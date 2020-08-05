@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 262de498b340f8c498da0d1aee34be7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hazard: {fileID: 4474489854335650349, guid: e9c6072de961d2c429681191339e24de,
+      type: 3}
+  - scoreText: {instanceID: 0}
+  - restartText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
